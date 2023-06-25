@@ -1,19 +1,19 @@
-<h1 align="center">Hi 👋, I'm Ariel González Gómez</h1>
+<h1 align="center">Hi 👋, I'm Ariel</h1>
 <h3 align="center">A passionate Computer Science student from Havana University</h3>
 
 <img width="100%" src="https://visme.co/blog/wp-content/uploads/2020/06/animated-interactive-infographics-header-wide.gif" alt="Banner" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arielgg46&label=Profile%20views&color=0e75b6&style=flat" alt="arielgg46" /> </p>
 
-- 🔭 I’m currently on a **bachelor's degree in computer science.**
+- 🎓 I’m currently on a **Bachelor's degree in Computer Science.** at the Faculty of Mathematics and Computing (**MatCom**) of Havana University.
 
-- 🌱 I’m currently learning **software and web development, competitive programming, math and machine learning.**
+- 📫 You can reach to my email **lenin46ariel@gmail.com** or my Telegram account **@ArielGG46**.
 
-- 📫 How to reach me **lenin46ariel@gmail.com**
+- 🌱 I’m currently learning **software and web development, competitive programming, math and machine learning**.
 
 <img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" alt="Me at night" />
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Competitive Programming accounts:</h3>
 <ul>
 <li>
 <p align="left">
