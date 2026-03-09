@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Ariel</h1>
-<h3 align="center">A passionate Computer Science student from Havana University</h3>
+<h3 align="center">A passionate Computer Scientist</h3>
 
 <img width="100%" src="https://visme.co/blog/wp-content/uploads/2020/06/animated-interactive-infographics-header-wide.gif" alt="Banner" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arielgg46&label=Profile%20views&color=0e75b6&style=flat" alt="arielgg46" /> </p>
 
-- 🎓 I’m currently on a **Bachelor's degree in Computer Science.** at the Faculty of Mathematics and Computing (**MatCom**) of Havana University.
+I’m a Computer Scientist and Full-Stack Software Engineer with a Summa Cum Laude degree from the University of Havana. I am currently a Professor (in training) at the University of Havana, teaching Logic, Design and Analysis of Algorithms, and Compilers. Proven ability in problem-solving, evidenced by participation in two ICPC World Finals. Passionate about AI, with initial research experience culminating in a thesis and ongoing work towards a publication. Additionally, I work as a Full-Stack Software Engineer at AxisSoft.
 
 - 📫 You can reach to my email **lenin46ariel@gmail.com** or my Telegram account **@ArielGG46**.
 
