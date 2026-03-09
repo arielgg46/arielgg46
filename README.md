@@ -7,9 +7,7 @@
 
 I’m a Computer Scientist and Full-Stack Software Engineer with a Summa Cum Laude degree from the University of Havana. I am currently a Professor (in training) at the University of Havana, teaching Logic, Design and Analysis of Algorithms, and Compilers. Proven ability in problem-solving, evidenced by participation in two ICPC World Finals. Passionate about AI, with initial research experience culminating in a thesis and ongoing work towards a publication. Additionally, I work as a Full-Stack Software Engineer at AxisSoft.
 
-- 📫 You can reach to my email **lenin46ariel@gmail.com** or my Telegram account **@ArielGG46**.
-
-- 🌱 I’m currently learning **software and web development, competitive programming, math and machine learning**.
+📫 You can reach to my email **lenin46ariel@gmail.com** or my Telegram account **@ArielGG46**.
 
 <img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" alt="Me at night" />
 
